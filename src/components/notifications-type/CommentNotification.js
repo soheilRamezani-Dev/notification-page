@@ -6,7 +6,7 @@ const CommentNotification = ({ notification }) => {
       <div className="col-2">
         <img
           className="rounded-circle avatar"
-          src={"images/" + notification.img}
+          src={"images/"+notification.img}
           alt="Mark Webber picture"
         />
       </div>
